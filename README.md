@@ -27,5 +27,10 @@ The Power BI project file (`.pbix`) is available in this repository.
 2. Open it using Microsoft Power BI Desktop.
 3. Explore the report pages and available dashboard interactions.
 
+## Project Structure
+
+- `power bi project on UPI payments.pbix` — Power BI report file containing the dashboard and visualisations.
+- `README.md` — Project overview, tools used, objectives, and instructions for viewing the report.
+
 ## Author
 Varanasi Varadeep
