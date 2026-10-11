@@ -7,6 +7,7 @@ This project focuses on analysing UPI payment transactions using Microsoft Power
 
 ## Tools Used
 - Microsoft Power BI
+- Microsoft Excel
 
 ## Project File
 The Power BI project file (`.pbix`) is available in this repository.
